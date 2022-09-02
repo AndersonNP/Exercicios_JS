@@ -1,0 +1,5 @@
+//comentário de uma linha
+
+/*
+
+*/
